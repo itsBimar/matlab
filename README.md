@@ -1,12 +1,12 @@
 # matlab
 ### matlab project 
-  *download manager for windows 
+  *download manager for windows                                                                                                                                 
   .
-  *show the time
+  *show the time                                                                                                                           
   .
-  *solve the equations \n
+  *solve the equations                                                                                   
   .
-  *and somethings more ....\n
+  *and somethings more ....                                                                                                                                  
 ## How to use ?!
 '''
 1.git clone github.com/itsbimar/matlab
