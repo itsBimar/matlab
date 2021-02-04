@@ -1,9 +1,9 @@
 # matlab
 *matlab project 
   *download manager for windows 
-  *show the time
-  *solve the equations 
-  *and somethings more ....
+  *show the time /n
+  *solve the equations \n
+  *and somethings more ....\n
 ## How to use ?!
 1.git clone github.com/itsbimar/matlab
 2.cd matlab
